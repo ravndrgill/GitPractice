@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public class ThirdJavaFile {
+package TestPackage;
+
+public class ThirdJavaFile {
 }

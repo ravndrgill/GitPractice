@@ -1,2 +1,8 @@
-package PACKAGE_NAME;public class MyJavaClass {
+package TestPackage;
+
+public class MyJavaClass {
+
+    public static void main(String[] args) {
+
+    }
 }

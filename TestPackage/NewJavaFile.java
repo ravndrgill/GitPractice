@@ -1,2 +1,8 @@
-package PACKAGE_NAME;public class NewJavaFile {
+package TestPackage;
+
+public class NewJavaFile {
+
+    public static void main(String[] args) {
+
+    }
 }
